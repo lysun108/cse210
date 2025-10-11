@@ -1,6 +1,6 @@
 // Cycling.cs
 // Subclass that stores speed (mph) and derives distance/pace.
-// Author: Zhili Zhong (Yang Liao)
+// Author: Yang Liao
 // Date: 2025-10-11
 
 using System;
