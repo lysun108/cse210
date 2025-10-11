@@ -1,6 +1,6 @@
 // Running.cs
 // Subclass that stores distance directly and derives speed/pace.
-// Author: Zhili Zhong (Yang Liao)
+// Author: Yang Liao
 // Date: 2025-10-11
 
 using System;
