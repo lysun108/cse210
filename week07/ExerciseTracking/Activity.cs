@@ -1,7 +1,7 @@
 // Activity.cs
 // CSE 210 - Week07 Final Foundation: Inheritance & Polymorphism
 // Core base class for all activities.
-// Author: Zhili Zhong (Yang Liao)
+// Author: Yang Liao
 // Date: 2025-10-11
 
 using System;
