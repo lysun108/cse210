@@ -1,6 +1,6 @@
 // Swimming.cs
 // Subclass that stores lap count (50m per lap) and converts to miles.
-// Author: Zhili Zhong (Yang Liao)
+// Author: Yang Liao
 // Date: 2025-10-11
 
 using System;
