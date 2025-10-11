@@ -1,6 +1,6 @@
 // Program.cs
 // Entry point: builds a polymorphic list and prints summaries.
-// Author: Zhili Zhong (Yang Liao)
+// Author: Yang Liao
 // Date: 2025-10-11
 
 using System;
